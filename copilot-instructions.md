@@ -11,24 +11,24 @@ author: github.com/gimomusiq
 # 🚦 Copilot Universal Instructions 
 
 # Table of Contents
-1. [Core Principles](#core-principles)
-2. [Output Discipline](#output-discipline)
-3. [Universal Style Guidelines](#universal-style-guidelines)
-4. [Code Quality](#code-quality)
-5. [Safety](#safety)
-6. [Architecture (Universal)](#architecture-universal)
-7. [Testing](#testing)
-8. [Documentation](#documentation)
-9. [Refactoring](#refactoring)
-10. [Project-Aware Behavior](#project-aware-behavior)
-11. [Language Modules](#language-modules-auto-activated)
-12. [Framework Modules](#framework-modules-optional-auto-activated)
-13. [Architecture Modules](#architecture-modules-optional-auto-activated)
-14. [Test Modules](#test-modules-optional-auto-activated)
-15. [Security Module](#security-module-optional-owasp-aligned)
-16. [Limits](#limits)
-17. [Changelog](#changelog)
-18. [References](#references)
+# 1. Core Principles
+# 2. Output Discipline
+# 3. Universal Style Guidelines
+# 4. Code Quality
+# 5. Safety
+# 6. Architecture (Universal)
+# 7. Testing
+# 8. Documentation
+# 9. Refactoring
+# 10. Project-Aware Behavior
+# 11. Language Modules
+# 12. Framework Modules
+# 13. Architecture Modules
+# 14. Test Modules
+# 15. Security Module
+# 16. Limits
+# 17. Changelog
+# 8. References
 # --- FRAMEWORK MODULES (optional, auto-activated) ---
 
 # --- ARCHITECTURE MODULES (optional, auto-activated) ---
