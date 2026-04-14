@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Using `copilot-instructions.md`
 
@@ -85,3 +86,7 @@ author: github.com/your-username
 
 ## Contributing
 Contributions are welcome! Open an issue or pull request to suggest improvements, add new language/framework modules, or report problems.
+=======
+# copilot-instructions
+instruction file for copilot to improve consistency, quality, reduce hallucinations. 
+>>>>>>> 23a052aff41055522eeed999cfc071b48aee413c
